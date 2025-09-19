@@ -1,3 +1,4 @@
+//TASK ADD DARK MODE FOR THE CARD
 import { Component } from "@/components/component";
 import Image from "next/image";
 
